@@ -1,7 +1,5 @@
 # ReadMe
-This repo. contains a series of python files (and copy jupyter notebooks) used to analyze
-molecular structure data to predict scalar J-coupling constants
-between atoms in large molecules.
+A repo. containing a series of python files  used to analyze molecular structure data to predict scalar J-coupling constants between atoms in large molecules.
 
 
 It contains the following files:
