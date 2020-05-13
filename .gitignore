@@ -1,6 +1,5 @@
 # ignore private data, ipynb checkpoints and pycache files
 
-Data/
 
 __pycache__/
 

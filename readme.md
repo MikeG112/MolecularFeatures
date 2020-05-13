@@ -1,7 +1,9 @@
 # ReadMe
-A repo. containing a series of python files  used to analyze molecular structure data to predict scalar J-coupling constants between atoms in large molecules.
+A repo. containing a series of python files used to analyze molecular structure data to predict scalar J-coupling constants between atoms in large molecules.
 
 
+Update coming soon!
+<!---
 It contains the following files:
 
 #### ReadAndCleanData.py
@@ -23,3 +25,4 @@ Implements functions on dataframe which add features discovered in EDA which see
 #### DecisionTreeGT
 
 Builds a random forest model using the underlying features from the data as well as the features discovered in EDA.
+-->
