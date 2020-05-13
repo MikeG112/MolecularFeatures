@@ -1,6 +1,5 @@
 # ignore private data, ipynb checkpoints and pycache files
 
-
 __pycache__/
 
 .ipynb_checkpoints/
